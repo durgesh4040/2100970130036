@@ -2,9 +2,9 @@
 
 ## Assignment1
 ![image](https://github.com/durgesh4040/2100970130036/blob/2212af17a9e4aa1afe5ef0589676bca9dd0c549f/public/Screenshot%202024-05-30%20164313.png)
+![image](https://github.com/durgesh4040/2100970130036/blob/7824464bfd1a30f2ac5b85bdde53f35cd9ce0baa/public/Screenshot%202024-05-30%20164421.png)
 ![image]()
-![image]()
-![image]()
+
 
 
 ## Assignment2
